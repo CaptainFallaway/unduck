@@ -12,20 +12,17 @@ function noSearchDefaultPageRender() {
           <input 
             type="text" 
             class="url-input"
-            value="https://unduck.link?q=%s"
+            value="https://unduck.capnroot.dev?q=%s"
             readonly 
           />
           <button class="copy-button">
             <img src="/clipboard.svg" alt="Copy" />
           </button>
         </div>
+        <p>This is a unofficial version of unduck. I have added perplexity as a bang and am just self hosting it instead.</p> 
       </div>
       <footer class="footer">
-        <a href="https://t3.chat" target="_blank">t3.chat</a>
-        •
-        <a href="https://x.com/theo" target="_blank">theo</a>
-        •
-        <a href="https://github.com/t3dotgg/unduck" target="_blank">github</a>
+        <a href="https://github.com/CaptainFallaway/unduck" target="_blank">github</a>
       </footer>
     </div>
   `;
