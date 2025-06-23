@@ -20,6 +20,15 @@ export const bangs = [
     u: "https://perplexity.ai/search?q={{{s}}}&copilot=true"
   },
   {
+    c: "AI",
+    d: "copilot.microsoft.com",
+    r: 0,
+    s: "Microsoft Copilot",
+    sc: "AI",
+    t: "cop",
+    u: "https://www.bing.com/chat?q={{{s}}}&sendquery=1"
+  },
+  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
